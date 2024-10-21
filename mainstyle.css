@@ -1,0 +1,61 @@
+body{
+    width: 70%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+main{
+    background-color: rgb(245,193,175);
+    margin: auto;
+    
+}
+
+
+h1{
+    color: blueviolet;
+}
+p{
+    background-color: blue;
+    color: white;
+}
+.sammiestyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: yellow;
+}
+nav{
+    text-decoration: solid;
+}
+/*ul{
+    text-decoration: none;
+
+}
+li{
+    display: block;
+
+}
+    /*nav menu style*/
+    ul{
+        background-color: darkgrey;
+    }
+    ul>li{
+        list-style: none;
+        display: inline;
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: white;
+        background-color: green;
+        margin-left: 4px;
+        padding: 3px;
+    }
+    ul>li>a:hover{
+        color: aqua;
+        background-color: white;
+
+    }
+    .selected{
+        color: rgb(178, 212, 22);
+        background-color: white;
+
+    }
+
